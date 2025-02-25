@@ -1,0 +1,6 @@
+.venv/
+*.json
+.DS_Store
+*.h5
+*.parquet
+__pycache__/
