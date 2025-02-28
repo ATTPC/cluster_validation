@@ -1,0 +1,5 @@
+attpc_spyral==0.18.0
+click==8.1.8
+ipympl==0.9.6
+jupyterlab==4.3.5
+matplotlib==3.10.1
